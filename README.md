@@ -1,2 +1,2 @@
 # MOG_Projects
-MetaOmGraph projects
+MetaOmGraph projects of ESW lab
